@@ -6,9 +6,9 @@ Welcome to GamedevWiki!
 It's split into sections corresponding to all game development fields:
 
 
-:doc:`Game Design/Game Design`
+:doc:`Game Design/index`
 
-:ref:`Programming/Programming`
+:ref:`Programming/index`
 
 .. note::
 
